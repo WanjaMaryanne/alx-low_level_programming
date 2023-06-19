@@ -1,4 +1,3 @@
-#!/bin/bash
 #Include < stdio.h >
 /**
  * main - A program that printsa line with puts function
