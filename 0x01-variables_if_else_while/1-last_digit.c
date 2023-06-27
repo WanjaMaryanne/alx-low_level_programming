@@ -18,7 +18,7 @@ int main(void)
 	
 	last_number = n % 10;
 
-	if (Last_number	> 5)
+	if (last_number	> 5)
 	{
 		printf("%d and is greater than 5\n", last_number);
 	}
