@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "Assembly code generated and saved as %s\n" "$output_file"
+gcc -S -masm=intel $CFILE
