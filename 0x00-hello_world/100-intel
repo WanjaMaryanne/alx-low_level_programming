@@ -1,12 +1,2 @@
 #include <stdio.h>
-/**
-*
-*main -  assembly code of a C code and save it in an output file.
-*Return: 0
-*/
-
-int main(void)
-{
 printf "Assembly code generated and saved as %s\n" "$output_file"
-return (0);
-}
