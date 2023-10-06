@@ -1,2 +1,2 @@
-#include <stdio.h>
+#!/bin/bash
 printf "Assembly code generated and saved as %s\n" "$output_file"
