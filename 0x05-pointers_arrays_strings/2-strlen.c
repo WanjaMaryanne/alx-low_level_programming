@@ -1,7 +1,8 @@
 #include "main.h"
 /**
- * int _strlen -  returns the length of a string.
- **s - pointer deference
+ * int _strlen -  returns the length of a string
+ * 
+ *@s - pointer deference, string to show length
  *
  * Return: Always 0
  *
