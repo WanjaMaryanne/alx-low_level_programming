@@ -6,7 +6,7 @@
  *
  */
 
-void print_ialphabet(void)
+void print_alphabet(void)
 {
 	int i;
 
