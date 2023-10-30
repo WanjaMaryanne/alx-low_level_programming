@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * fizz_buzz - prints the numbers from 1 to 100
+ * main - prints the numbers from 1 to 100
  *
  * Return: 0
  */
