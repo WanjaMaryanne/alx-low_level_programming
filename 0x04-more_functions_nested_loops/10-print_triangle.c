@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * print_triangle - prints a triangle, followed by a new line.
- * size -  size of the triangle
+ * @size -  size of the triangle
  * @x - one of the sides
  * @y - one of the sides
  * @z - one of the sides
@@ -10,7 +10,6 @@
  */
 void print_triangle(int size)
 {
-	int size;
 	int x, y, z;
 
 	if (size <= 0)
