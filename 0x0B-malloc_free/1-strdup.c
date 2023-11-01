@@ -1,7 +1,7 @@
 #include "main.h"
 #include <stdlib.h>
 /**
- * _strdup - copy a string to a newly allocated space in memory
+ * *_strdup - copy a string to a newly allocated space in memory
  * @str: string to be used
  *
  * Returns: NULL if insufficient memory was available
