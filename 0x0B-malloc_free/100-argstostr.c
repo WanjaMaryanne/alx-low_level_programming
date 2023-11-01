@@ -24,16 +24,16 @@ char *argstostr(int ac, char **av)
 
 
 	concatenated = malloc(sizeof(char) * (total_length));
-        if (concatenated == NULL)
-                return (NULL);
+	if (concatenated == NULL)
+		return (NULL);
 	k = 0;
 	for (i = 0; i < ac; i++)
 	{
 		for (j = 0; av[i][j]; j++)
 		{
-			concatenated [k++] = av[i][j];
+			concatenated[k++] = av[i][j];
 		}
-		concatenated [k++] = '\n';
+		concatenated[k++] = '\n';
 	}
 	return (concatenated);
 }
