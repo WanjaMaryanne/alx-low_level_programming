@@ -23,7 +23,7 @@ unsigned int flip_bits(unsigned long int n, unsigned long int m)
 /**
  * bit - return the value of a bit at index
  * @n: integer number
- * @index: position of the bit 
+ * @index: position of the bit
  *
  * Return: the value of thr bit
  */
