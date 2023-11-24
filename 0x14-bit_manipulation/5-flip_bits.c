@@ -1,4 +1,6 @@
 #include "main.h"
+
+int bit(unsigned long int n, unsigned int index);
 /**
  * flip_bits -  the number of bits you would need to flip
  * to get from one number to another.
