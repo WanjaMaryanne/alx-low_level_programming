@@ -14,7 +14,7 @@ unsigned int binary_to_uint(const char *b)
 	unsigned int index, decimal;
 	unsigned int i, j, k;
 
-	index = decimal = j = k = 0;
+	index = decimal = j = i = 0;
 
 	if (b == NULL)
 		return (0);
