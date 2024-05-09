@@ -2,4 +2,5 @@
 <h2>Objectives</h2>
 <ol>
 <li>What are binary trees</li>
+<li></li>
 </ol>
